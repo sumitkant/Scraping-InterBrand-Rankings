@@ -2,7 +2,9 @@
 title: "Scraping Interbrand Rankings"
 author: "Sumit Kant"
 date: "27 May 2017"
-output: html_document
+output: 
+  md_document:
+    variant: markdown_github
 ---
 
 # Scraping Interbrand Rankings Using R
